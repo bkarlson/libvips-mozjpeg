@@ -1,6 +1,6 @@
 # libvips-mozjpeg
 
-The static libs are build against mozJpeg using https://github.com/libvips/build-win64-mxe: 
+These static Windows x86_64 libs are build against mozJpeg using https://github.com/libvips/build-win64-mxe: 
 
 ```sh
 ./build.sh web x86_64 static --with-mozjpeg
